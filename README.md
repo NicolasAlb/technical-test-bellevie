@@ -1,3 +1,7 @@
+# Technical test for BelleVie
+
+Write a react component(s), which displays support workers information and number of hours scheduled to perform on a card.
+
 ## Installation instructions
 
 ### `npm install`
